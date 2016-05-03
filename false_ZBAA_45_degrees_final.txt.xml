@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20151130</CreaDate><CreaTime>17581100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20151130" Time="175653">CalculateField false_ZBAA_45_degrees_final local_time "[acq_time] +8
+" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20151130" Time="175737">CalculateField false_ZBAA_45_degrees_final local_time "[local_time] -24" VB #</Process></lineage></DataProperties></Esri></metadata>
